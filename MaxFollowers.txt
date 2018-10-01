@@ -1,0 +1,22 @@
+The top 10 users who has the maximum followers: 
+
+1. Username: globeandmail -> Number of Followers: 1725190
+
+2. Username: NigeriaNewsdesk -> Number of Followers: 1492823
+
+3. Username: awfulannouncing -> Number of Followers: 215466
+
+4. Username: VarsityAces -> Number of Followers: 187306
+
+5. Username: 41actionnews -> Number of Followers: 143160
+
+6. Username: koconews -> Number of Followers: 140091
+
+7. Username: WLTX -> Number of Followers: 116195
+
+8. Username: 8NEWS -> Number of Followers: 96760
+
+9. Username: MastrianniChris -> Number of Followers: 96659
+
+10. Username: ABCNews4 -> Number of Followers: 93245
+

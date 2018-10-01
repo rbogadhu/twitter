@@ -1,0 +1,42 @@
+The top 10 tweets that has the max no of retweets : 
+
+1. Username: conquest_reggie
+ Tweet: "@SometimesRJ: This the football I grew up to love https://t.co/59DREtPSm1"  
+ No of retweets: 90632
+
+2. Username: LuchoMuller09
+ Tweet: "@SometimesRJ: This the football I grew up to love https://t.co/59DREtPSm1"  
+ No of retweets: 90632
+
+3. Username: SckaryNo
+ Tweet: "@TFYNICK: RIP to real football https://t.co/CPRakB99tS"  
+ No of retweets: 38612
+
+4. Username: G_Hudson89
+ Tweet: "@Kaepernick7: Congrats 2 my brother @e_reid35, all pro safety who should have been signed the 1st day of free agency, who has signed a fâ¦"  
+ No of retweets: 12487
+
+5. Username: annhonolulu
+ Tweet: "@Kaepernick7: Congrats 2 my brother @e_reid35, all pro safety who should have been signed the 1st day of free agency, who has signed a fâ¦"  
+ No of retweets: 12487
+
+6. Username: Mattfinessinn
+ Tweet: "@hawillisdc: i hope football dies within two generations because watching black and brown men break up their bodies and give themselvesâ¦"  
+ No of retweets: 9523
+
+7. Username: Mendoza_702
+ Tweet: "@hawillisdc: i hope football dies within two generations because watching black and brown men break up their bodies and give themselvesâ¦"  
+ No of retweets: 9523
+
+8. Username: OneDimpleBxndit
+ Tweet: "@hawillisdc: i hope football dies within two generations because watching black and brown men break up their bodies and give themselvesâ¦"  
+ No of retweets: 9523
+
+9. Username: peintress2
+ Tweet: "@dbongino: Breaking: Spartacus uncovers that Kavanaugh had a beer after football practice."  
+ No of retweets: 6964
+
+10. Username: NicolaMelloni
+ Tweet: "@eliistender10: Has there ever been better rubbish football? https://t.co/3nMJgJ9fim"  
+ No of retweets: 5967
+
